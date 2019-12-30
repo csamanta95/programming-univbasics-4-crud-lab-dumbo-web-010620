@@ -1,9 +1,9 @@
 def create_an_empty_array
-  p favorite_food= []
+  p array= []
 end
 
 def create_an_array
- p favorite_food= ["pizza", "pasta", "bread", "cheese"]
+ p array= ["pizza", "pasta", "bread", "cheese"]
 end
 
 def add_element_to_end_of_array(array, chicken)
