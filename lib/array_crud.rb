@@ -10,12 +10,12 @@ def add_element_to_end_of_array(array, chicken)
   array << chicken
 end
 
-def add_element_to_start_of_array(array, beef)
+def add_element_to_start_of_array(array, element)
   array.unshift(beef)
 end
 
 def remove_element_from_end_of_array(array)
-
+  
 end
 
 def remove_element_from_start_of_array(array)
