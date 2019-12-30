@@ -1,5 +1,5 @@
 def create_an_empty_array
-  favorite_food= [pizza, pasta, bread, cheese, chicken]
+  p favorite_food= []
 end
 
 def create_an_array
